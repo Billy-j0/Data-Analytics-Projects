@@ -61,7 +61,7 @@ To get the detailed findings of the covid dataset please check my tableau dashbo
 
 <img align="right" height="250" width="375" alt="GIF" src="https://user-images.githubusercontent.com/91241827/142728902-8b0754b7-d6f7-4c78-a2da-57fe4ea0660e.png" />
 
-🐍 In this project I will be using libraries such as pandas, numpy, matplotlib, seaborn..using these libraries we will be finding correlations in the dataset
+🐍 In this project I will be python libraries such as  In this project I will be using libraries such as pandas, numpy, matplotlib, seaborn..using these libraries we will be finding correlations in the dataset
 
 🎦 We will be using a movies data set that contains data for movies from 1980 - 2020
 
@@ -72,3 +72,19 @@ To get the detailed findings of the covid dataset please check my tableau dashbo
 [Data-Analysis-Python](https://github.com/Billy-j0/Portfolio-Projects/blob/main/movies_dataset_Anaysis_v1.ipynb)
 
 [Movies-Dataset](https://github.com/Billy-j0/Portfolio-Projects/blob/main/Datasets/movies_dataset.csv)
+
+
+
+
+# Project - Amazon Web Scraping
+
+<img align="right" height="250" width="375" alt="GIF" src="https://user-images.githubusercontent.com/91241827/142751306-b3a8404a-54eb-4f0e-b942-85ec9e57b206.png" />
+
+
+🐍 This is a very simple webscraping project and  in this project I will be using python libraries such as beautifulsoup and requests to scrape data from the website
+
+➡️ Beautiful Soup is a Python package for parsing HTML and XML documents. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping
+
+➡️ Objective : I wanted to buy a smart phone but the price was too high, So I built a python program to scrape data from Amazon and notify me via email if there is a drop in price of the smart phone. This is a very simple webscraping project and 
+
+[Web-Scraping](https://github.com/Billy-j0/Data-Analytics-Projects/blob/main/Amazon-Web-Scraping.ipynb)
